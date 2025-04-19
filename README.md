@@ -1,2 +1,2 @@
 # Currency-converter-program
-โปรเจคแปลงสกุลเงิน
+Project แปลงสกุลเงิน
